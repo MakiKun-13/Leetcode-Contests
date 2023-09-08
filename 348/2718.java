@@ -1,3 +1,6 @@
+/**
+ * Sum of Matrix After Queries
+ */
 class Solution {
     public long matrixSumQueries(int n, int[][] queries) {
         Set<Integer> rowVisited = new HashSet<>();

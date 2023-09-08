@@ -1,3 +1,6 @@
+/**
+ * Minimize String Length
+ */
 class Solution {
     public int minimizedStringLength(String s) {
         Set<Character> set = new HashSet<>();

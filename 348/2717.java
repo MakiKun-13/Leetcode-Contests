@@ -1,3 +1,6 @@
+/**
+ * Semi-Ordered Permutation
+ */
 class Solution {
     public int semiOrderedPermutation(int[] nums) {
         int operations = 0;
